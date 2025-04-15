@@ -1,27 +1,28 @@
 ### Hi, I’m @Hazzyi  
-Microsoft Dynamics 365 Developer | Power Platform Enthusiast | Business Solutions Architect
+**Microsoft Dynamics & .NET Solutions Expert**  
+*Specializing in Dynamics 365, Power Platform, and Custom Application Development*
 
-**I’m interested in...**  
-- Microsoft Dynamics 365 (CRM & ERP)  
+**I’m interested in**  
+- Microsoft Dynamics 365 (CE, F&O, Business Central)  
 - Power Platform (PowerApps, Power Automate, Power BI)  
-- Custom plugins and workflows using C# and .NET  
-- Business process automation and enterprise integrations  
-- Azure services for Dynamics 365 scalability
+- .NET Core and C# development for enterprise solutions  
+- Custom plugins, workflows, and integrations  
+- Azure cloud services and DevOps practices for Dynamics
+- 
+**I’m currently learning**  
+- Advanced Dynamics 365 Finance & Operations features  
+- Building model-driven apps with Dataverse  
+- Azure Logic Apps and API Management  
+- Continuous Integration/Delivery pipelines with Azure DevOps  
 
-**I’m currently learning...**  
-- Dynamics 365 Finance & Operations module  
-- Advanced PowerApps and Dataverse customization  
-- AI Builder for intelligent business apps  
-- Azure DevOps for CRM CI/CD pipelines  
+**I’m looking to collaborate on**  
+- End-to-end Dynamics 365 implementations  
+- Power Platform-based low-code solutions  
+- Custom .NET apps that integrate with Microsoft business tools  
+- Business process optimization through automation  
 
-**I’m looking to collaborate on...**  
-- Dynamics 365 customization and extensions  
-- Power Platform applications  
-- Integration projects with Azure and third-party APIs  
-- Automating business processes with low-code tools  
-
-**How to reach me...**  
-- Email: haazei631@gmail.com  
-
-**Fun fact:**  
-I make business logic flow so smoothly in Dynamics, you'd think it runs on autopilot.
+**How to reach me**  
+- Email: haazei631@gmail.com
+- 
+**Fun fact**  
+I bridge business goals and technical execution—transforming complex requirements into seamless Dynamics and .NET solutions.
