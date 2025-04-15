@@ -8,7 +8,7 @@
 - .NET Core and C# development for enterprise solutions  
 - Custom plugins, workflows, and integrations  
 - Azure cloud services and DevOps practices for Dynamics
-- 
+  
 **I’m currently learning**  
 - Advanced Dynamics 365 Finance & Operations features  
 - Building model-driven apps with Dataverse  
@@ -23,6 +23,6 @@
 
 **How to reach me**  
 - Email: haazei631@gmail.com
-- 
+  
 **Fun fact**  
 I bridge business goals and technical execution—transforming complex requirements into seamless Dynamics and .NET solutions.
